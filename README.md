@@ -10,3 +10,6 @@ https://codepen.io/rabinyadav9596/pen/yLexpWX
 
 Day 2
 https://codepen.io/rabinyadav9596/pen/NWxVEOW
+
+Day3
+https://codepen.io/rabinyadav9596/pen/WNrqZXz
